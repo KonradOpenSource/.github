@@ -6,6 +6,7 @@ production-ready applications.
 ## 🚀 Projects
 - **Medication Management System** – full-stack application for managing medications and reminders.
 - **AI-Content_Assistant-PRO** - Front-end  application for AI-ContentAssistant.
+- **Mac_os_system** - Front-end  application.
  - *(more projects coming)*
 
 ## 🛠 Tech Stack
