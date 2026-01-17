@@ -8,7 +8,7 @@ production-ready applications.
 - **AI-Content_Assistant-PRO** - Front-end  application for AI-ContentAssistant.
 - **Mac_os_system** - Front-end  application.
 - **Audio_Studio - Front-end application.
- - *(more projects coming)*
+- *(more projects coming)*
 
 ## 🛠 Tech Stack
 Skills: Html 5 , Css 3 , JavaScript , SEO , RWD , BEM , ITCSS , Sass/Scss , Wordpress , Git , TypeScript , Fetch Api , Rest API , Angular , RXJS , Angular Material , SPA , 
