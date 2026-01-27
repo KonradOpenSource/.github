@@ -12,8 +12,8 @@ production-ready applications.
 - *(more projects coming)*
 
 ## 🛠 Tech Stack
-Skills: Html 5 , Css 3 , JavaScript , SEO , RWD , BEM , ITCSS , Sass/Scss , Wordpress , Git , TypeScript , Fetch Api , Rest API , Angular , RXJS , Angular Material , SPA , 
-basics Node.js , Java , Sql , Testing(Jasmine and Karma) , Microsoft Azure , AI tools(Github Compilot , Windsurf).
+Skills: Html 5 , Css 3 , JavaScript , SEO , RWD , BEM , ITCSS , Sass/Scss , Wordpress , Git , TypeScript , Fetch Api , Rest API , Angular , RXJS , Angular Material , SPA , basics Node.js , Java , Spring , Docker , Postgresql , Maven , Ngix , Sql , Testing(Jasmine and Karma and Junit) ,  Microsoft Azure , AI tools(Github Compilot , Windsurf) </h4>
+
 
 ## 📌 Project Status
 Projects are either actively developed or maintained in stable mode.
