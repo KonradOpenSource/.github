@@ -8,6 +8,7 @@ production-ready applications.
 - **AI-Content_Assistant-PRO** - Front-end  application for AI-ContentAssistant.
 - **Mac_os_system** - Front-end  application.
 - Audio_Studio - Front-end application.
+- HELPDESK_SUBMISSION_SYSTEM - Full-stack application
 - *(more projects coming)*
 
 ## 🛠 Tech Stack
