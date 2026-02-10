@@ -5,6 +5,7 @@ production-ready applications.
 
 ## 🚀 Projects
 - **Medication Management System** – full-stack application for managing medications and reminders.
+- **Angular schop** -  full-stack application.
 - **AI-Content_Assistant-PRO** - Front-end  application for AI-ContentAssistant.
 - **Mac_os_system** - Front-end  application.
 - Audio_Studio - Front-end application.
